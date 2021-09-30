@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/wikomoko/Desktop/GithubberM/app/src/main/res/layout/activity_favourite.xml" value="0.2015625" />
+        <entry key="..\:/Users/wikomoko/Desktop/GithubberM/app/src/main/res/layout/activity_info_details.xml" value="0.25" />
+        <entry key="..\:/Users/wikomoko/Desktop/GithubberM/app/src/main/res/layout/activity_main.xml" value="0.2015625" />
+        <entry key="..\:/mobile_dev/dicoding/GithubberM/app/src/main/res/drawable-v24/ic_launcher_custom_foreground.xml" value="0.22291666666666668" />
+        <entry key="..\:/mobile_dev/dicoding/GithubberM/app/src/main/res/drawable/refresh_button_sutom.xml" value="0.22291666666666668" />
+        <entry key="..\:/mobile_dev/dicoding/GithubberM/app/src/main/res/drawable/searchview_custom_design.xml" value="0.22291666666666668" />
+        <entry key="..\:/mobile_dev/dicoding/GithubberM/app/src/main/res/layout/activity_info_details.xml" value="0.25" />
+        <entry key="..\:/mobile_dev/dicoding/GithubberM/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/mobile_dev/dicoding/GithubberM/app/src/main/res/layout/activity_setting.xml" value="0.25" />
+        <entry key="..\:/mobile_dev/dicoding/GithubberM/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/mobile_dev/dicoding/GithubberM/app/src/main/res/layout/card_list_items.xml" value="0.41811175337186895" />
+        <entry key="..\:/mobile_dev/dicoding/GithubberM/app/src/main/res/layout/fragment_follower.xml" value="0.2" />
+        <entry key="..\:/mobile_dev/dicoding/GithubberM/app/src/main/res/layout/fragment_following.xml" value="0.22" />
+        <entry key="..\:/mobile_dev/dicoding/GithubberM/app/src/main/res/menu/option_menus.xml" value="0.17" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

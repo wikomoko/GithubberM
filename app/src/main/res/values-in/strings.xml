@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubberM</string>
+    <string name="search_here">Cari Disini...</string>
+    <string name="followers">Pengikut</string>
+    <string name="gihubber_user_name_temporary">Nama Pengguna Gihubber</string>
+    <string name="working_here_temporary">Bekerja di Sini...</string>
+    <string name="followers_temporary">213455</string>
+    <string name="name">NamaUserGithubber666</string>
+    <string name="not_found">Tidak Ditemukan</string>
+    <string name="understand">Paham</string>
+    <string name="user_not_found">Maaf... \n\ntetapi permintaan anda tidak dapat di proses karena DATA TIDAK DITEMUKAN.. silahkan cari pengguna lainya atau tekan tombol perbaharui dibawah ini</string>
+    <string name="refresh">Perbaharui</string>
+    <string name="bad_request">Permintaan yang buruk</string>
+    <string name="forbidden">Terlarang</string>
+    <string name="language">Bahasa</string>
+    <string name="location">Los angeles</string>
+    <string name="company">Google American</string>
+    <string name="repository">Peyimpanan</string>
+    <string name="following">Mengikuti</string>
+    <string name="hello_blank_fragment">Fragment Kosong</string>
+    <string name="share">Share</string>
+    <string name="this_is_data_of">Ini adalah data dari :</string>
+    <string name="nameShare">Nama :</string>
+    <string name="userSare">Nama Pengguna:</string>
+    <string name="workedShare">Dia bekerja di</string>
+    <string name="hasFollowers">Dia memiliki </string>
+    <string name="hasRepo">Dia juga memiliki </string>
+    <string name="githubberM">Githubber M</string>
+    <string name="gambar">gambar</string>
+    <string name="theme_mode">Mode Gelap</string>
+    <string name="set_ui">Pengaturan Tampilan</string>
+    <string name="liked_page">Halaman Disukai</string>
+    <string name="isLike">Disukai</string>
+    <string name="disliked">Tidak Disukai</string>
+</resources>

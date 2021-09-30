@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">GithubberM</string>
+    <string name="search_here">Search Here...</string>
+    <string name="followers">Followers</string>
+    <string name="gihubber_user_name_temporary">Gihubber User Name</string>
+    <string name="working_here_temporary">Working Here...</string>
+    <string name="followers_temporary">213455</string>
+    <string name="name">GithubberUserName666</string>
+    <string name="not_found">Not Found</string>
+    <string name="understand">Understand</string>
+    <string name="user_not_found">Sorry... \n\nbut your request can not be processed cause DATA NOT FOUND.. please search another users or click ther refresh button below</string>
+    <string name="refresh">Refresh</string>
+    <string name="bad_request">Bad Request</string>
+    <string name="forbidden">Forbidden</string>
+    <string name="language">Languages</string>
+    <string name="company">Google American</string>
+    <string name="location">Los Angeles</string>
+    <string name="repository">Repositories</string>
+    <string name="following">Followings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="share">Share</string>
+    <string name="this_is_data_of">This is data of :</string>
+    <string name="nameShare">Name :</string>
+    <string name="userSare">User of :</string>
+    <string name="workedShare">He/She works at</string>
+    <string name="hasFollowers">He/She has </string>
+    <string name="hasRepo">He/She also has </string>
+    <string name="githubberM">Githubber M</string>
+    <string name="gambar">gambar</string>
+    <string name="theme_mode">Dark Mode</string>
+    <string name="set_ui">UI Settings</string>
+    <string name="liked_page">Liked Page</string>
+    <string name="isLike">Liked</string>
+    <string name="disliked">DisLiked</string>
+</resources>
